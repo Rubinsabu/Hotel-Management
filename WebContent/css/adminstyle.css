@@ -1,0 +1,29 @@
+@charset "ISO-8859-1";
+
+
+
+
+table, th, td {
+    border: 1px solid black;
+  }
+table{
+    width:100%
+}
+.buttons{
+    text-align: center;
+    padding: 30px;
+    /* position:fixed; */
+}
+.cust-table{
+    margin-bottom: 40px;
+}
+.cust-btn{
+    font-size: 24px;
+    width:25%;
+    background-color: #f44336;
+}
+.staff-btn{
+    font-size: 24px;
+    width:25%;
+    background-color: #4CAF50;
+}

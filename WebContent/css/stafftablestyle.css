@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+body {
+    font-family: 'Open Sans', sans-serif;
+    background: url(../images/1.jpg)repeat 0px 0px;
+    background-attachment: fixed;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+} 
+table, th, td {
+    border: 1px solid black;
+  }
+table{
+    width:100%
+}
